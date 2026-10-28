@@ -1,4 +1,4 @@
-#  Fixka
+#  Fixka: version 0.0.1
 
 Fixka je jednoduchá, blbuvzdorná desktopová aplikace pro OS Windows, která slouží jako "Quick Fix" nástroj pro běžné uživatele. Nabízí záchranu v situacích, kdy zamrzne obraz, spadne lišta, nejede internet nebo dochází místo na disku – to všechno na jedno kliknutí v moderním a kompaktním grafickém rozhraní.
 
